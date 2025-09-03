@@ -1,6 +1,6 @@
 LE4VE 🏏🎮
 
-LE4VE is a fun browser-based JavaScript game inspired by cricket. The name comes from the idea of a batsman — like Virat Kohli (VK) — carefully leaving the 4th stump ball that’s coming at him. Just like in cricket, the challenge is all about timing, judgment, and survival.
+LE4VE is a fun browser-based JavaScript game inspired by cricket. The name comes from a fun idea of VK carefully leaving the 4th stump ball that’s coming at him. Just like in cricket, the challenge is all about timing, judgment, and survival.
 
 🔗 Play Now
 
